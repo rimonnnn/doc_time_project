@@ -1,16 +1,9 @@
-# doc_time
+# DocTime
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🎨: System design
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1024" height="1024" alt="ChatGPT Image Aug 31, 2025, 07_34_01 PM" src="https://github.com/user-attachments/assets/379bfb40-ec0a-4edb-90b6-a91a8e5492b8" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
